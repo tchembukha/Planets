@@ -1,1 +1,3 @@
-git tracking the file. But the mmummy will appreciate lack of humidity
+git tracking the file.
+ But the mmummy will appreciate lack of humidity
+still an ill-considered change
